@@ -1,0 +1,16 @@
+bostadstyp,choice
+Lägenhet,LightGBM
+Hus,CatBoost
+Hus,LightGBM
+Lägenhet,CatBoost
+Lägenhet,CatBoost
+Lägenhet,LightGBM
+Fritidshus,LightGBM
+Fritidshus,LightGBM
+Fritidshus,LightGBM
+Fritidshus,CatBoost
+Fritidshus,LightGBM
+Fritidshus,LightGBM
+Fritidshus,CatBoost
+Fritidshus,LightGBM
+Hus,CatBoost
